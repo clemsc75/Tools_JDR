@@ -1,44 +1,44 @@
 {
-    "Aureus": {
-        "Denier": 54.8859,
-        "Quinaire": 71.5218,
-        "Sesterce": 60.2803,
-        "As": 54.4929,
-        "PO": 42.3712
+    "Lumen": {
+        "Solaris": 26.4629,
+        "Nebula": 77.4256,
+        "Stella": 45.6205,
+        "Cosmo": 56.8477,
+        "Galacto": 1.8888
     },
-    "Denier": {
-        "Aureus": 64.593,
-        "Quinaire": 43.7643,
-        "Sesterce": 89.1784,
-        "As": 96.3666,
-        "PO": 38.3503
+    "Solaris": {
+        "Lumen": 61.7674,
+        "Nebula": 61.2135,
+        "Stella": 61.6972,
+        "Cosmo": 94.3754,
+        "Galacto": 68.1852
     },
-    "Quinaire": {
-        "Aureus": 79.1746,
-        "Denier": 52.8942,
-        "Sesterce": 56.8088,
-        "As": 92.5604,
-        "PO": 7.1129
+    "Nebula": {
+        "Lumen": 35.9572,
+        "Solaris": 43.7088,
+        "Stella": 69.7661,
+        "Cosmo": 6.0319,
+        "Galacto": 66.68
     },
-    "Sesterce": {
-        "Aureus": 8.7221,
-        "Denier": 2.0316,
-        "Quinaire": 83.2637,
-        "As": 77.8179,
-        "PO": 87.0025
+    "Stella": {
+        "Lumen": 67.0671,
+        "Solaris": 21.0462,
+        "Nebula": 12.9013,
+        "Cosmo": 31.5497,
+        "Galacto": 36.3774
     },
-    "As": {
-        "Aureus": 97.862,
-        "Denier": 79.9179,
-        "Quinaire": 46.1533,
-        "Sesterce": 78.0551,
-        "PO": 11.8363
+    "Cosmo": {
+        "Lumen": 57.024,
+        "Solaris": 43.8658,
+        "Nebula": 98.8375,
+        "Stella": 10.2135,
+        "Galacto": 20.8956
     },
-    "PO": {
-        "Aureus": 63.9957,
-        "Denier": 14.3439,
-        "Quinaire": 94.4674,
-        "Sesterce": 52.1896,
-        "As": 41.472
+    "Galacto": {
+        "Lumen": 16.1393,
+        "Solaris": 65.3143,
+        "Nebula": 25.3366,
+        "Stella": 46.6364,
+        "Cosmo": 24.4501
     }
 }
