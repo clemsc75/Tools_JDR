@@ -1,0 +1,44 @@
+{
+    "Aureus": {
+        "Denier": 54.8859,
+        "Quinaire": 71.5218,
+        "Sesterce": 60.2803,
+        "As": 54.4929,
+        "PO": 42.3712
+    },
+    "Denier": {
+        "Aureus": 64.593,
+        "Quinaire": 43.7643,
+        "Sesterce": 89.1784,
+        "As": 96.3666,
+        "PO": 38.3503
+    },
+    "Quinaire": {
+        "Aureus": 79.1746,
+        "Denier": 52.8942,
+        "Sesterce": 56.8088,
+        "As": 92.5604,
+        "PO": 7.1129
+    },
+    "Sesterce": {
+        "Aureus": 8.7221,
+        "Denier": 2.0316,
+        "Quinaire": 83.2637,
+        "As": 77.8179,
+        "PO": 87.0025
+    },
+    "As": {
+        "Aureus": 97.862,
+        "Denier": 79.9179,
+        "Quinaire": 46.1533,
+        "Sesterce": 78.0551,
+        "PO": 11.8363
+    },
+    "PO": {
+        "Aureus": 63.9957,
+        "Denier": 14.3439,
+        "Quinaire": 94.4674,
+        "Sesterce": 52.1896,
+        "As": 41.472
+    }
+}
