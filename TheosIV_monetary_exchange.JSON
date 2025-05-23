@@ -1,0 +1,50 @@
+{
+    "Aureus": {
+        "Aureus": 1,
+        "Denier": 25,
+        "Quinaire": 50,
+        "Sesterce": 100,
+        "As": 400,
+        "PO": 12.5
+    },
+    "Denier": {
+        "Aureus": 0.04,
+        "Denier": 1,
+        "Quinaire": 2,
+        "Sesterce": 4,
+        "As": 16,
+        "PO": 0.5
+    },
+    "Quinaire": {
+        "Aureus": 0.02,
+        "Denier": 0.5,
+        "Quinaire": 1,
+        "Sesterce": 2,
+        "As": 8,
+        "PO": 0.25
+    },
+    "Sesterce": {
+        "Aureus": 0.01,
+        "Denier": 0.25,
+        "Quinaire": 0.5,
+        "Sesterce": 1,
+        "As": 4,
+        "PO": 0.125
+    },
+    "As": {
+        "Aureus": 0.0025,
+        "Denier": 0.0625,
+        "Quinaire": 0.125,
+        "Sesterce": 0.25,
+        "As": 1,
+        "PO": 0.03125
+    },
+    "PO": {
+        "Aureus": 0.08,
+        "Denier": 2,
+        "Quinaire": 4,
+        "Sesterce": 8,
+        "As": 32,
+        "PO": 1
+    }
+}
